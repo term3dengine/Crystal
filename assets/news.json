@@ -1,0 +1,4 @@
+[
+    { "text": "Crystal 1.0", "scale": 1, "font": "goldFont" },
+    { "text": "Welcome to Crystal 1.0!\nI have worked very hard to \nget this working, so thanks for trying\nCrystal out!\nYou can add mods into the /mods folder\n to use them, and I'm working on a\n feature to import them on-the-go.\nSo stay tuned for that in Crystal 1.1.", "scale": 0.6, "color": "0xffffff" }
+]

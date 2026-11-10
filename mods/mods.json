@@ -1,0 +1,31 @@
+{
+  "mods": [
+    {
+      "file": "suspense_client.py",
+      "name": "Suspense Client",
+      "author": "Suspense",
+      "description": "Main cheat menu with hacks, automation, and texture packs",
+      "version": "1.0.0",
+      "priority": 100,
+      "load_after": []
+    },
+    {
+      "file": "crystalify.py",
+      "name": "Crystalify",
+      "author": "Suspense",
+      "description": "Crystal-themed visual mod",
+      "version": "1.0.0",
+      "priority": 10,
+      "load_after": []
+    },
+    {
+      "file": "platformer.py",
+      "name": "Platformer Mode",
+      "author": "Suspense",
+      "description": "Platformer-style movement",
+      "version": "1.0.0",
+      "priority": 10,
+      "load_after": []
+    }
+  ]
+}
